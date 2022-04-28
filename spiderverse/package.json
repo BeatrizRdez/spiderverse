@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "💻 Creación de un nuevo proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeatrizRdez/spiderverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeatrizRdez/spiderverse/issues"
+  },
+  "homepage": "https://github.com/BeatrizRdez/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
