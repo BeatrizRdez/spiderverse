@@ -8,5 +8,5 @@
 
 💻 Test Driven Development by Martin Fowler
 
-💻 Técnica de TDD: 
+💻 Técnica de TDD
 
